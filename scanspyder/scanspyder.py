@@ -9,7 +9,7 @@ print(colored(banner, "red"))
 print(colored("Author   : Nikhil Kumar", "green"))
 print(colored("Tool     : Python Scan Tool", "yellow"))
 print(colored("Version  : 1.0", "cyan"))
-print(colored("Github   : github.com/yourusername", "magenta"))
+print(colored("Github   : github.com/N1KHIL-KUMAR", "magenta"))
 
 def scan_port(host, port):
     try:
