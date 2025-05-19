@@ -23,7 +23,7 @@ Simple Python Port Scanner
     ```
 
 
-## Usage
+* ## Usage
 
   * ### Basic Usage
 
