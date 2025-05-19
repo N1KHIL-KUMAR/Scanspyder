@@ -30,6 +30,8 @@ Simple Python Port Scanner
     # Scanning a start port and end port
     ❯ python3 scanspyder.py 0.0.0.0 80 90
     ```
+> [!IMPORTANT]
+> scanning is intended for educational purposes and authorized penetration testing only.\
 
 
 ## Donate
