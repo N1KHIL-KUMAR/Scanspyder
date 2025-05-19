@@ -22,7 +22,6 @@ Simple Python Port Scanner
     ❯ ./okadminfinder.py -h
     ```
 
-
 * ## Usage
 
   * ### Basic Usage
