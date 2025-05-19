@@ -15,11 +15,11 @@ Simple Python Port Scanner
     
     ```bash
     # Download and Usage
-    ❯ git clone https://github.com/mIcHyAmRaNe/okadminfinder.git
-    ❯ cd okadminfinder
+    ❯ git clone https://github.com/N1KHIL-KUMAR/Scanspyder.git
+    ❯ cd Scanspyder
     ❯ pip3 install -r requirements.txt
-    ❯ chmod +x okadminfinder.py
-    ❯ ./okadminfinder.py -h
+    ❯ chmod +x scanspyder.py
+    ❯ ./scanspyder.py -h
     ```
 
 * ## Usage
